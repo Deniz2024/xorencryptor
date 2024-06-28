@@ -12,8 +12,8 @@
 
 int main()
 {
-	char input[9];
-	uint8_t key;
+	char input[9] = { 0 };
+	uint8_t key = 0;
 	srand(time(0));
 
 	printf("enter a 8 character string: ");
