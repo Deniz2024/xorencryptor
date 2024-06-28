@@ -1,3 +1,8 @@
+#if 0
+
+
+
+
 #include <stdio.h>
 #include <stdint.h>
 
@@ -41,3 +46,6 @@ int main() {
 
 
 }
+
+
+#endif //0
